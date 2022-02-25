@@ -1,0 +1,165 @@
+﻿  main.cpp
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(173,59): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(173,28): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(172,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : zobacz deklarację „sprintf”
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(177,12): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(244,31): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(253,98): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(641,83): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(643,83): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(649,49): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(649,63): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(650,30): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(651,51): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(651,69): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(652,32): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(653,51): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(653,69): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(654,32): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(655,51): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(655,69): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(656,32): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(658,50): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(658,64): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(659,30): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(660,52): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(660,70): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(661,32): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(662,52): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(662,70): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(663,32): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(664,52): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(664,70): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(665,32): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(667,49): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(667,63): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(668,30): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(669,51): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(669,69): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(670,32): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(671,51): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(671,69): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(672,32): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(673,51): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(673,69): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(674,32): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(676,50): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(676,64): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(677,30): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(678,52): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(678,70): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(679,32): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(680,52): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(680,70): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(681,32): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(682,52): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(682,70): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(683,32): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(685,49): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(685,63): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(686,30): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(687,51): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(687,69): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(688,32): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(689,51): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(689,69): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(690,32): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(691,51): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(691,69): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(692,32): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(694,52): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(694,66): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(695,32): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(696,54): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(696,72): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(697,34): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(698,54): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(698,72): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(699,34): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(700,54): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(700,72): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(701,34): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(703,49): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(703,63): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(704,32): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(705,51): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(705,69): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(706,34): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(707,51): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(707,69): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(708,34): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(709,51): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(709,69): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(710,34): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(713,49): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(713,63): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(714,32): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(715,51): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(715,69): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(716,34): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(717,51): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(717,69): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(718,34): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(719,51): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(719,69): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(720,34): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(722,52): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(722,66): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(723,32): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(724,54): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(724,72): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(725,34): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(726,54): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(726,72): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(727,34): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(728,54): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(728,72): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(729,34): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(731,49): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(731,63): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(732,32): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(733,51): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(733,69): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(734,34): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(735,51): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(735,69): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(736,34): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(737,51): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(737,69): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(738,34): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(741,96): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(743,90): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(745,59): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(747,90): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(749,96): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(751,40): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(751,33): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(834,34): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(904,20): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(542,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : zobacz deklarację „sprintf”
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(569,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : zobacz deklarację „sprintf”
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(577,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : zobacz deklarację „sprintf”
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(582,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : zobacz deklarację „sprintf”
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(586,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : zobacz deklarację „sprintf”
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(629,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : zobacz deklarację „sprintf”
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(646,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : zobacz deklarację „sprintf”
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(918,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : zobacz deklarację „sprintf”
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(969,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : zobacz deklarację „sprintf”
+C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\main.cpp(971,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : zobacz deklarację „sprintf”
+  Trwa generowanie kodu
+  0 of 192 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  szablon2vs19.vcxproj -> C:\Users\przem\Desktop\PROJEKT Frogger\template-project-2\Release\szablon2vs19.exe
